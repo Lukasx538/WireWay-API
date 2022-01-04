@@ -1,0 +1,9 @@
+name: WireWay_API
+version: 1.0
+authors: [Wireway_DevTeam, Lukas_x538]
+website: www.Wireway.ml
+prefix: API
+api-version: 1.18
+description: Dies ist die API für das Wireway-Netzwerk.
+
+main: de.lukas.api.main.WireWay
