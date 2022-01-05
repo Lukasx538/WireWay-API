@@ -6,4 +6,4 @@ prefix: API
 api-version: 1.18
 description: Dies ist die API für das Wireway-Netzwerk.
 
-main: de.lukas.api.main.WireWay
+main: de.lukas.api.main.Main
